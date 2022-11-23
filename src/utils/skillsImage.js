@@ -73,7 +73,10 @@ import sketch from '../assets/svg/skills/sketch.svg'
 import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 
-import canva from '../assets/svg/skills/canva.svg'
+import androidstudio from '../assets/svg/skills/androidstudio.svg'
+import expressjs from '../assets/svg/skills/expressjs.svg'
+import nodejs from '../assets/svg/skills/nodejs.svg'
+
 
 
 export const skillsImage = (skill) => {
@@ -225,8 +228,12 @@ export const skillsImage = (skill) => {
             return unity;
         case 'wolframalpha':
             return wolframalpha;
-        case 'canva':
-            return canva;
+        case 'androidstudio':
+            return androidstudio;
+        case 'expressjs':
+            return expressjs;
+        case 'nodejs':
+            return nodejs;
         default:
             break;
     }

@@ -1,29 +1,29 @@
 export const achievementData = {
-    bio : "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+    bio : "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. But what else I have achieved which is worthwhile is Time Management, It's not all about how hard working I'm, but it's about how I manage my Time, Resources & Mind To work together efficiently for a better output ",
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            title : 'Google Cloud Platform Specialization',
+            details : 'A Five Courses Specialization designed for Data Professionals who are responsible for Designing, Building, Analyzing, and Optimizing Big Data Solutions.',
+            date : 'Sept 29 2022',
+            field : 'GoogleCloud',
+            image : 'https://kasna.com.au/wp-content/uploads/2022/09/GC-specialization-Machine_Learning-outline-1-1.png'
         },
         {
             id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'IIRS ISRO Certification',
+            details : 'Geo-data sharing and Cyber Security Course Conducted by IIRS & Organized by ISRO',
+            date : 'Nov 04, 2022',
+            field : 'CyberSecurity',
+            image : 'https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_Space_Research_Organisation_Logo.svg'
         },
         {
             id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'Google Kick Starter Round - G (2022)',
+            details : 'I Participated in the Google Kick Starter Coding Contest on October 15, 2022, For The First Time and I am happy to share that I secured 3393 Global Rank.',
+            date : 'Oct 15, 2022',
+            field : 'CodingContest',
+            image : 'https://upload.wikimedia.org/wikipedia/commons/b/b5/Kickstarter_logo.svg'
         }
 
     ]
