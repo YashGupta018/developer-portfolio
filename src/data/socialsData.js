@@ -5,7 +5,7 @@ export const socialsData = {
     codepen: 'https://codepen.io/YashGupta018',
     twitter: 'https://twitter.com/__Dark_Shadow_',
     reddit: 'https://www.reddit.com/user/Intelligent-Ask-2250',
-    blogger: 'https://www.blogger.com/',
-    medium: 'https://medium.com/@',
-    stackOverflow: 'https://stackoverflow.com/users/9327774/dark-shadow',
+    leetcode: 'https://leetcode.com/YashGupta001/',
+    codechef: 'https://www.codechef.com/users/darkshadow18',
+    stackOverflow: 'https://stackoverflow.com/users/9327774/dark-shadow'
 }
