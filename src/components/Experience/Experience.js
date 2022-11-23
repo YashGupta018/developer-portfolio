@@ -1,13 +1,6 @@
-import React,{useContext} from 'react';
-
-import { ThemeContext } from '../../contexts/ThemeContext';
-
 import './Experience.css';
 
-import { experienceData } from '../../data/experienceData'
-import ExperienceCard from './ExperienceCard';
-
-function Experience() {
+/*function Experience() {
 
     const { theme } = useContext(ThemeContext);
     return (
@@ -33,4 +26,4 @@ function Experience() {
     )
 }
 
-export default Experience
+export default Experience*/
